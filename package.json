@@ -1,0 +1,25 @@
+{
+  "name": "nodeStock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seolbee/nodeStock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seolbee/nodeStock/issues"
+  },
+  "homepage": "https://github.com/seolbee/nodeStock#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2",
+    "xml-js": "^1.6.11"
+  }
+}
